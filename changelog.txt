@@ -1,0 +1,13 @@
+Ranking 3SCL v2.0.2.3
+shorturl.at/mntIL
+
+---------------------
+Patch Notes
+
+- Nuevo sistema de posicionamiento: Primeras 10 partidas de jugadores nuevos afectan más a su elo, y se amortigua el del oponente. Efecto decae con cada pelea.
+- Reinstaurados los puntos bono por ganar match en partidas de eliminación (torneo) (ft2: 3, ft5: 4.5). Estos decaen luego de ganar +50 puntos, con ganancia 0 con +100 puntos.
+- Introducida mecánica de penalización de elo por ausencia (0.3 por día, 0.2 luego de perder 50 puntos, máx pérdida 100)
+- Reworkeado el mecanismo de matches de torneo: Resultado ya no es absoluto (importa el score, pero no tanto como en ranked)
+- Cambiado mecanismo de ausentes. Cada pelea agrega 80 días restantes para quedar ausente (máximo 180)
+- Se registra el bono o penalización como un elo paralelo, de manera que el bono es transferible al jugar. Se crean mecanismos para mantener el bono entre -100 y +100.
+- Se agregan mecanismos de equilibrio de elo para mantener el elo cerca de 1000, que limitan  aún más las penalizaciones o bonos.

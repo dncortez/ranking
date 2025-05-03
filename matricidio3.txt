@@ -1,0 +1,7 @@
+player_1	player_2	score_1	score_2	replay
+Monichan	Powup1	3	2
+Wirox	Memokof	3	0
+Monichan	Necrolust	3	1
+Franciscois	Pipenhocongranadina	3	1
+Chikops2	Wirox	3	1
+FitoxNorris	Dainoth	3	2

@@ -1,0 +1,30 @@
+player_1	player_2	score_1	score_2	replay
+AdukenShoryuken	Alvatw	2	1
+Matidarkwolf	Zacenk	2	0
+Soxichan	Fabix531	2	1
+Elsean	Valencia	2	0
+Fulgore	BFreeman	2	1
+Jindra	AdukenShoryuken	2	0
+Pipenhocongranadina	KomanDamage	2	0
+r0nsv41n	Matidarkwolf	2	0
+Mr Olympia	Soxichan	2	0
+Dainoth	Elsean	2	1
+Nosequeweaponer	Guaripolo	2	0
+FitoxNorris	Rysu	2	1
+Jindra	Pipenhocongranadina	2	0
+r0nsv41n	Mr Olympia	2	0
+Dainoth	Nosequeweaponer	2	0
+FitoxNorris	Fulgore	2	0
+Rysu	Alvatw	2	0
+Guaripolo	Zacenk	2	1
+Fabix531	Elsean	2	1
+Valencia	Soxichan	2	0
+BFreeman	KomanDamage	2	1
+Guaripolo	Fabix531	2	1
+AdukenShoryuken	BFreeman	2	0
+Rysu	Mr Olympia	2	0
+Pipenhocongranadina	Guaripolo	2	1
+Valencia	Fulgore	2	1
+Nosequeweaponer	AdukenShoryuken	2	0
+Pipenhocongranadina	Rysu	2	1
+Nosequeweaponer	Valencia	2	0

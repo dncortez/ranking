@@ -1,0 +1,34 @@
+player_1	player_2	score_1	score_2	replay
+pipenhocongranadina	rysu	2	1
+Merino	Mr Olympia	2	1
+Muta	Cristof Von Roe	2	1
+Sir.Weon	NTQ	2	0
+pipenhocongranadina	Diplosaurio	2	0
+Merino	Lowap	2	0
+gentlemano	Dainoth	2	1
+Wirox	Muta	2	1
+alvarinho3rd	tuetue	2	1
+Sir.Weon	fabix	2	0
+NECROLUST	monichan	2	0
+pipenhocongranadina	Beffen	2	0
+Merino	gentlemano	2	1
+alvarinho3rd	Wirox	2	0
+Sir.Weon	NECROLUST	2	0
+Merino	pipenhocongranadina	2	0
+Sir.Weon	alvarinho3rd	2	1
+Sir.Weon	Merino	3	0
+rysu	monichan	2	0
+Mr Olympia	tuetue	2	0
+Dainoth	Cristof Von Roe	2	0
+rysu	fabix	2	1
+Muta	Mr Olympia	2	0
+Dainoth	Lowap	2	0
+Diplosaurio	NTQ	2	0
+gentlemano	rysu	2	1
+Dainoth	NECROLUST	2	1
+Diplosaurio	Wirox	2	0
+Dainoth	Diplosaurio	2	0
+Muta	alvarinho3rd	2	0
+Dainoth	pipenhocongranadina	2	0
+Merino	Dainoth	3	2
+Sir.Weon	Merino	3	0
